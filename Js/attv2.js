@@ -3,6 +3,8 @@ retorne true se o número for par e false caso seja ímpar.
 Entradas: receber um numero
 Processamento: verificar se o numero é impar ou par
 Saida: se é par ou impar
+Eu achei a questão foi relativamente facil pois nos utlizamos funções para tudo
+Eu crie funções para entrada saida e processamento
 */
 function ehPar(numero){
    if(numero % 2 == 0){
