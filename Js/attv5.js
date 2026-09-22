@@ -3,6 +3,8 @@ como parâmetro, percorra o vetor, some todos os valores e retorne o total.
 Entrada: array
 Processamento: somar os valores do array
 Saida: a soma
+Eu achei a questão facil, porem me faltou atenção
+Eu utilizei a mesma logica das anteriores
 */
 function receberArray(){
   const valores = []
